@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4543701.css",
+    "main.js": "/static/js/main.4e723bb6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Melittin_cage_design.gif": "/static/media/Melittin_cage_design.5f78bbe45d9ca07e0b32.gif",
+    "static/media/NHEJ.png": "/static/media/NHEJ.8f2c32278f95fdd271e0.png",
+    "static/media/avatar.png": "/static/media/avatar.e5bb5e541cf80c896c3a.png",
+    "static/media/NipahG.gif": "/static/media/NipahG.3b20f63c94a5b90ef18b.gif",
+    "static/media/Protein_colored_final.gif": "/static/media/Protein_colored_final.19c335b074f8a8469d10.gif",
+    "static/media/home-bg.jpg": "/static/media/home-bg.13696bbfa9dc5c5e47eb.jpg",
+    "static/media/CV_DDV.pdf": "/static/media/CV_DDV.c0e247dc1b85050c00f1.pdf",
+    "static/media/Leash-BELKA.png": "/static/media/Leash-BELKA.b1f0b2ea6445a6a69011.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Grapharm.png": "/static/media/Grapharm.3c762865b8c2c9dbb766.png",
+    "static/media/pre.svg": "/static/media/pre.028cb1bf757c7eb287bc.svg",
+    "index.html": "/index.html",
+    "static/media/DDV_logo.svg": "/static/media/DDV_logo.356dc9398480e6dd487a0fc3ff8e80c9.svg",
+    "main.b4543701.css.map": "/static/css/main.b4543701.css.map",
+    "main.4e723bb6.js.map": "/static/js/main.4e723bb6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4543701.css",
+    "static/js/main.4e723bb6.js"
+  ]
+}
