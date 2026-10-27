@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99126f16.css",
-    "main.js": "/static/js/main.2dfdf7a2.js",
+    "main.js": "/static/js/main.263720ca.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Melittin_cage_design.mp4": "/static/media/Melittin_cage_design.64c0b0e066acacdbeb2a.mp4",
     "static/media/Protein_colored_final.gif": "/static/media/Protein_colored_final.19c335b074f8a8469d10.gif",
@@ -17,11 +17,11 @@
     "static/media/protein_static.png": "/static/media/protein_static.c3a2c8650952630c334c.png",
     "index.html": "/index.html",
     "main.99126f16.css.map": "/static/css/main.99126f16.css.map",
-    "main.2dfdf7a2.js.map": "/static/js/main.2dfdf7a2.js.map",
+    "main.263720ca.js.map": "/static/js/main.263720ca.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99126f16.css",
-    "static/js/main.2dfdf7a2.js"
+    "static/js/main.263720ca.js"
   ]
 }
