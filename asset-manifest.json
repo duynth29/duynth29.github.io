@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4543701.css",
-    "main.js": "/static/js/main.4e723bb6.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "main.css": "/static/css/main.99126f16.css",
+    "main.js": "/static/js/main.740b87d0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Melittin_cage_design.gif": "/static/media/Melittin_cage_design.5f78bbe45d9ca07e0b32.gif",
-    "static/media/NHEJ.png": "/static/media/NHEJ.8f2c32278f95fdd271e0.png",
-    "static/media/avatar.png": "/static/media/avatar.e5bb5e541cf80c896c3a.png",
-    "static/media/NipahG.gif": "/static/media/NipahG.3b20f63c94a5b90ef18b.gif",
+    "static/media/Melittin_cage_design.mp4": "/static/media/Melittin_cage_design.64c0b0e066acacdbeb2a.mp4",
     "static/media/Protein_colored_final.gif": "/static/media/Protein_colored_final.19c335b074f8a8469d10.gif",
-    "static/media/home-bg.jpg": "/static/media/home-bg.13696bbfa9dc5c5e47eb.jpg",
-    "static/media/CV_DDV.pdf": "/static/media/CV_DDV.c0e247dc1b85050c00f1.pdf",
+    "static/media/NipahG.mp4": "/static/media/NipahG.8710487cf56c9d6c3359.mp4",
+    "static/media/pasteur_hackathon.png": "/static/media/pasteur_hackathon.bb6082130c2a366538fe.png",
+    "static/media/CV_DDV.pdf": "/static/media/CV_DDV.a3ffa2b472625278796c.pdf",
+    "static/media/NHEJ.png": "/static/media/NHEJ.c61631a21a440d6b55cd.png",
     "static/media/Leash-BELKA.png": "/static/media/Leash-BELKA.b1f0b2ea6445a6a69011.png",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/NipahG_poster.jpg": "/static/media/NipahG_poster.7d3c00880d5f3b30c6d8.jpg",
     "static/media/Grapharm.png": "/static/media/Grapharm.3c762865b8c2c9dbb766.png",
-    "static/media/pre.svg": "/static/media/pre.028cb1bf757c7eb287bc.svg",
+    "static/media/avatar.png": "/static/media/avatar.a3f589dfe63210692fce.png",
+    "static/media/Melittin_cage_design_poster.jpg": "/static/media/Melittin_cage_design_poster.93f36b84bee8931f6197.jpg",
+    "static/media/protein_static.png": "/static/media/protein_static.c3a2c8650952630c334c.png",
     "index.html": "/index.html",
-    "static/media/DDV_logo.svg": "/static/media/DDV_logo.356dc9398480e6dd487a0fc3ff8e80c9.svg",
-    "main.b4543701.css.map": "/static/css/main.b4543701.css.map",
-    "main.4e723bb6.js.map": "/static/js/main.4e723bb6.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "main.99126f16.css.map": "/static/css/main.99126f16.css.map",
+    "main.740b87d0.js.map": "/static/js/main.740b87d0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4543701.css",
-    "static/js/main.4e723bb6.js"
+    "static/css/main.99126f16.css",
+    "static/js/main.740b87d0.js"
   ]
 }
