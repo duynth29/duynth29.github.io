@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.d83894ad.css",
-    "main.js": "/static/js/main.61e2b5b5.js",
+    "main.css": "/static/css/main.a154f6ec.css",
+    "main.js": "/static/js/main.f919df51.js",
     "static/css/167.1999a729.chunk.css": "/static/css/167.1999a729.chunk.css",
-    "static/js/167.698eeb20.chunk.js": "/static/js/167.698eeb20.chunk.js",
+    "static/js/167.cdfc6a74.chunk.js": "/static/js/167.cdfc6a74.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/js/664.70509af4.chunk.js": "/static/js/664.70509af4.chunk.js",
+    "static/js/437.b0ebf387.chunk.js": "/static/js/437.b0ebf387.chunk.js",
     "static/media/Melittin_cage_design.mp4": "/static/media/Melittin_cage_design.64c0b0e066acacdbeb2a.mp4",
-    "static/media/Protein_colored_final.gif": "/static/media/Protein_colored_final.19c335b074f8a8469d10.gif",
     "static/media/NipahG.mp4": "/static/media/NipahG.8710487cf56c9d6c3359.mp4",
     "static/media/pasteur_hackathon.png": "/static/media/pasteur_hackathon.bb6082130c2a366538fe.png",
     "static/media/CV_DDV.pdf": "/static/media/CV_DDV.a3ffa2b472625278796c.pdf",
@@ -17,17 +16,16 @@
     "static/media/Grapharm.png": "/static/media/Grapharm.3c762865b8c2c9dbb766.png",
     "static/media/avatar.png": "/static/media/avatar.a3f589dfe63210692fce.png",
     "static/media/Melittin_cage_design_poster.jpg": "/static/media/Melittin_cage_design_poster.93f36b84bee8931f6197.jpg",
-    "static/media/protein_static.png": "/static/media/protein_static.c3a2c8650952630c334c.png",
     "index.html": "/index.html",
-    "main.d83894ad.css.map": "/static/css/main.d83894ad.css.map",
-    "main.61e2b5b5.js.map": "/static/js/main.61e2b5b5.js.map",
+    "main.a154f6ec.css.map": "/static/css/main.a154f6ec.css.map",
+    "main.f919df51.js.map": "/static/js/main.f919df51.js.map",
     "167.1999a729.chunk.css.map": "/static/css/167.1999a729.chunk.css.map",
-    "167.698eeb20.chunk.js.map": "/static/js/167.698eeb20.chunk.js.map",
+    "167.cdfc6a74.chunk.js.map": "/static/js/167.cdfc6a74.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map",
-    "664.70509af4.chunk.js.map": "/static/js/664.70509af4.chunk.js.map"
+    "437.b0ebf387.chunk.js.map": "/static/js/437.b0ebf387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d83894ad.css",
-    "static/js/main.61e2b5b5.js"
+    "static/css/main.a154f6ec.css",
+    "static/js/main.f919df51.js"
   ]
 }
