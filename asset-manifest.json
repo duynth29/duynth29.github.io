@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c52477f.css",
-    "main.js": "/static/js/main.d4c5b9e5.js",
+    "main.js": "/static/js/main.4ac40043.js",
     "static/css/167.1999a729.chunk.css": "/static/css/167.1999a729.chunk.css",
     "static/js/167.cdfc6a74.chunk.js": "/static/js/167.cdfc6a74.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/Melittin_cage_design_poster.jpg": "/static/media/Melittin_cage_design_poster.93f36b84bee8931f6197.jpg",
     "index.html": "/index.html",
     "main.6c52477f.css.map": "/static/css/main.6c52477f.css.map",
-    "main.d4c5b9e5.js.map": "/static/js/main.d4c5b9e5.js.map",
+    "main.4ac40043.js.map": "/static/js/main.4ac40043.js.map",
     "167.1999a729.chunk.css.map": "/static/css/167.1999a729.chunk.css.map",
     "167.cdfc6a74.chunk.js.map": "/static/js/167.cdfc6a74.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.6c52477f.css",
-    "static/js/main.d4c5b9e5.js"
+    "static/js/main.4ac40043.js"
   ]
 }
