@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c52477f.css",
-    "main.js": "/static/js/main.4ac40043.js",
+    "main.css": "/static/css/main.cb3a5a8e.css",
+    "main.js": "/static/js/main.9ce7ce49.js",
     "static/css/167.1999a729.chunk.css": "/static/css/167.1999a729.chunk.css",
     "static/js/167.cdfc6a74.chunk.js": "/static/js/167.cdfc6a74.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
@@ -12,20 +12,21 @@
     "static/media/CV_DDV.pdf": "/static/media/CV_DDV.a3ffa2b472625278796c.pdf",
     "static/media/NHEJ.png": "/static/media/NHEJ.c61631a21a440d6b55cd.png",
     "static/media/Leash-BELKA.png": "/static/media/Leash-BELKA.b1f0b2ea6445a6a69011.png",
+    "static/media/molart.jpg": "/static/media/molart.21c1505471ca451801ee.jpg",
     "static/media/NipahG_poster.jpg": "/static/media/NipahG_poster.7d3c00880d5f3b30c6d8.jpg",
     "static/media/Grapharm.png": "/static/media/Grapharm.3c762865b8c2c9dbb766.png",
     "static/media/avatar.png": "/static/media/avatar.a3f589dfe63210692fce.png",
     "static/media/Melittin_cage_design_poster.jpg": "/static/media/Melittin_cage_design_poster.93f36b84bee8931f6197.jpg",
     "index.html": "/index.html",
-    "main.6c52477f.css.map": "/static/css/main.6c52477f.css.map",
-    "main.4ac40043.js.map": "/static/js/main.4ac40043.js.map",
+    "main.cb3a5a8e.css.map": "/static/css/main.cb3a5a8e.css.map",
+    "main.9ce7ce49.js.map": "/static/js/main.9ce7ce49.js.map",
     "167.1999a729.chunk.css.map": "/static/css/167.1999a729.chunk.css.map",
     "167.cdfc6a74.chunk.js.map": "/static/js/167.cdfc6a74.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map",
     "437.b0ebf387.chunk.js.map": "/static/js/437.b0ebf387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c52477f.css",
-    "static/js/main.4ac40043.js"
+    "static/css/main.cb3a5a8e.css",
+    "static/js/main.9ce7ce49.js"
   ]
 }
